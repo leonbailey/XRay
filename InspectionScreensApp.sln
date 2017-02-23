@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40418.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectionScreensApp", "InspectionScreensApp\InspectionScreensApp.csproj", "{6BF0DD09-2E5B-44E8-986B-A1C94E0CE1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonAppDataAccess", "MonAppDataAccess\MonAppDataAccess.csproj", "{CB9EDB45-B394-4438-8287-696D00A8F045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PumaOEEDDataAccess", "PumaOEEDDataAccess\PumaOEEDDataAccess.csproj", "{BF33B21C-7AAA-4369-9483-D50796564C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigmaOEEDataAccess", "SigmaOEEDataAccess\SigmaOEEDataAccess.csproj", "{4FC06F19-0F03-4DAA-B8B8-577381578B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LE1OEEDataAccess", "LE1OEEDataAccess\LE1OEEDataAccess.csproj", "{B7DE82D8-0E5C-4AFC-9DB7-94574DEE1A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityDataAccess", "GravityDataAccess\GravityDataAccess.csproj", "{056B6EFA-91EB-4268-B5F7-977150A06945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchscreenKeyboard", "TouchscreenKeyboard\TouchscreenKeyboard\TouchscreenKeyboard.csproj", "{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PantherOEEDataAccess", "PantherOEEDataAccess\PantherOEEDataAccess.csproj", "{CCC5A246-6FB6-4FE8-AFC5-D75E8C766D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityProductionDataAccess", "GravityProductionDataAccess\GravityProductionDataAccess.csproj", "{31296983-691A-42D7-8B93-88F870A7C48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectionCommon", "InspectionCommon\InspectionCommon.csproj", "{1A1E3895-0088-49E7-87C8-C9AE0DF42BE1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://montupetuk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GravityDataAccess\\GravityDataAccess.csproj
+		SccProjectName1 = GravityDataAccess
+		SccLocalPath1 = GravityDataAccess
+		SccProjectUniqueName2 = InspectionScreensApp\\InspectionScreensApp.csproj
+		SccProjectName2 = InspectionScreensApp
+		SccLocalPath2 = InspectionScreensApp
+		SccProjectUniqueName3 = LE1OEEDataAccess\\LE1OEEDataAccess.csproj
+		SccProjectName3 = LE1OEEDataAccess
+		SccLocalPath3 = LE1OEEDataAccess
+		SccProjectUniqueName4 = MonAppDataAccess\\MonAppDataAccess.csproj
+		SccProjectName4 = MonAppDataAccess
+		SccLocalPath4 = MonAppDataAccess
+		SccProjectUniqueName5 = PantherOEEDataAccess\\PantherOEEDataAccess.csproj
+		SccProjectName5 = PantherOEEDataAccess
+		SccLocalPath5 = PantherOEEDataAccess
+		SccProjectUniqueName6 = PumaOEEDDataAccess\\PumaOEEDDataAccess.csproj
+		SccProjectName6 = PumaOEEDDataAccess
+		SccLocalPath6 = PumaOEEDDataAccess
+		SccProjectUniqueName7 = SigmaOEEDataAccess\\SigmaOEEDataAccess.csproj
+		SccProjectName7 = SigmaOEEDataAccess
+		SccLocalPath7 = SigmaOEEDataAccess
+		SccProjectUniqueName8 = TouchscreenKeyboard\\TouchscreenKeyboard\\TouchscreenKeyboard.csproj
+		SccProjectName8 = TouchscreenKeyboard/TouchscreenKeyboard
+		SccLocalPath8 = TouchscreenKeyboard\\TouchscreenKeyboard
+		SccProjectUniqueName9 = GravityProductionDataAccess\\GravityProductionDataAccess.csproj
+		SccProjectName9 = GravityProductionDataAccess
+		SccLocalPath9 = GravityProductionDataAccess
+		SccProjectUniqueName10 = InspectionCommon\\InspectionCommon.csproj
+		SccProjectName10 = InspectionCommon
+		SccLocalPath10 = InspectionCommon
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BF0DD09-2E5B-44E8-986B-A1C94E0CE1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF0DD09-2E5B-44E8-986B-A1C94E0CE1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF0DD09-2E5B-44E8-986B-A1C94E0CE1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF0DD09-2E5B-44E8-986B-A1C94E0CE1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB9EDB45-B394-4438-8287-696D00A8F045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9EDB45-B394-4438-8287-696D00A8F045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9EDB45-B394-4438-8287-696D00A8F045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9EDB45-B394-4438-8287-696D00A8F045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF33B21C-7AAA-4369-9483-D50796564C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF33B21C-7AAA-4369-9483-D50796564C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF33B21C-7AAA-4369-9483-D50796564C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF33B21C-7AAA-4369-9483-D50796564C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC06F19-0F03-4DAA-B8B8-577381578B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC06F19-0F03-4DAA-B8B8-577381578B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC06F19-0F03-4DAA-B8B8-577381578B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC06F19-0F03-4DAA-B8B8-577381578B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DE82D8-0E5C-4AFC-9DB7-94574DEE1A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DE82D8-0E5C-4AFC-9DB7-94574DEE1A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DE82D8-0E5C-4AFC-9DB7-94574DEE1A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DE82D8-0E5C-4AFC-9DB7-94574DEE1A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056B6EFA-91EB-4268-B5F7-977150A06945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056B6EFA-91EB-4268-B5F7-977150A06945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056B6EFA-91EB-4268-B5F7-977150A06945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056B6EFA-91EB-4268-B5F7-977150A06945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94070B1D-6DE4-4D45-B2B9-5DA09D0E15C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC5A246-6FB6-4FE8-AFC5-D75E8C766D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC5A246-6FB6-4FE8-AFC5-D75E8C766D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC5A246-6FB6-4FE8-AFC5-D75E8C766D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC5A246-6FB6-4FE8-AFC5-D75E8C766D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31296983-691A-42D7-8B93-88F870A7C48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31296983-691A-42D7-8B93-88F870A7C48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31296983-691A-42D7-8B93-88F870A7C48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31296983-691A-42D7-8B93-88F870A7C48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1E3895-0088-49E7-87C8-C9AE0DF42BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E3895-0088-49E7-87C8-C9AE0DF42BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E3895-0088-49E7-87C8-C9AE0DF42BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E3895-0088-49E7-87C8-C9AE0DF42BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
